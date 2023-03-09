@@ -4,7 +4,10 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@nrwl/nest": "^15.8.5",
+    "@nrwl/next": "^15.8.5"
+  },
   "devDependencies": {
     "@nrwl/nx-cloud": "latest",
     "nx": "15.8.5",
